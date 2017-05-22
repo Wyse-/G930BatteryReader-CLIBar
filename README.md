@@ -21,6 +21,7 @@ Logitech G930 v1.00.364: http://download01.logitech.com/web/ftp/pub/gaming/g930/
 Console2: https://sourceforge.net/projects/console/
 
 My console.xml file: https://a.doko.moe/rdgaol.7z
+
 Some changes will have to be done to the console.xml file. Mainly you will have to change the shell="C:\UOW\G930GUI.exe" line to your
 G930BatteryReader-CLIBar executable path and the x="3195" y="-95" line to your desired display coordinates.
 
