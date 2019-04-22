@@ -2,9 +2,9 @@
 
 ## Screenshots
 Without Console2:
-![alt tag](https://a.doko.moe/vmhyfy.PNG)
+![w/o Console2 screenshot](https://user-images.githubusercontent.com/5454041/56524101-0573bd80-6549-11e9-926a-bc1c543d72d7.png)
 With Console2:
-![alt tag](https://a.doko.moe/rugfeg.png)
+![w/ Console2 screenshot](https://user-images.githubusercontent.com/5454041/56524124-17edf700-6549-11e9-829b-73f48873e0e2.png)
 
 ## Description
 This is a variant of https://github.com/Wyse-/G930BatteryReader, which doesn't rely on Rainmeter nor writes the battery value to a txt file,
@@ -20,7 +20,7 @@ Logitech G930 v1.00.364: http://download01.logitech.com/web/ftp/pub/gaming/g930/
 
 Console2: https://sourceforge.net/projects/console/
 
-My console.xml file: https://a.doko.moe/rdgaol.7z
+My console.xml file: https://github.com/Wyse-/G930BatteryReader-CLIBar/files/3104677/console.zip
 
 Some changes will have to be done to the console.xml file. Mainly you will have to change the shell="C:\UOW\G930GUI.exe" line to your
 G930BatteryReader-CLIBar executable path and the x="3195" y="-95" line to your desired display coordinates.
