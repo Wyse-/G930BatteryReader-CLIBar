@@ -2,7 +2,7 @@
 
 ## Screenshots
 Without Console2:
-![w/o Console2 screenshot](https://user-images.githubusercontent.com/5454041/56524101-0573bd80-6549-11e9-926a-bc1c543d72d7.png)
+![w/o Console2 screenshot](https://user-images.githubusercontent.com/5454041/56524859-6fd92d80-654a-11e9-861d-4a085b59c8cf.PNG)
 With Console2:
 ![w/ Console2 screenshot](https://user-images.githubusercontent.com/5454041/56524124-17edf700-6549-11e9-829b-73f48873e0e2.png)
 
